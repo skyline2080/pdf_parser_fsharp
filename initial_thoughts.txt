@@ -1,0 +1,7 @@
+Having initially surveyed the existing .net libs for pdf file parsing got out with 2 possible free options
+1st PDFSharp lib under MIT licence
+2nd iTextSharp lib under GNU Affero
+Having played around with PDFSharp got stucked with incorrect cyrillic parsing with no possible solution found 
+Though did not inverst heavily on the subject
+So switched to iTextSharp which eventually proved useful, no problems parsing cyrillic found as of now
+No big deal considering the app is not intended for commercial use anyway  
